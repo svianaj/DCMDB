@@ -1,0 +1,50 @@
+italy_flooding_20240918_2km: 
+
+  file_templates : [ 'GRIBPFDEODcub_burja_1809_2km+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ec:/sink/deode/CY48t3_AROME_cub_burja_1809_2km/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'cub_burja_1809_2km'
+     resolution : 2000
+     levels : 90
+
+italy_flooding_20240918_1km: 
+
+  file_templates : [ 'GRIBPFDEODcub_burja_1809_1km+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ec:/sink/deode/CY48t3_AROME_cub_burja_1809_1km/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'cub_burja_1809_1km'
+     resolution : 1000
+     levels : 90
+
+italy_flooding_20240918_500m: 
+
+  file_templates : [ 'GRIBPFDEODlin_burja_1809+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ec:/sink/deode/CY48t3_AROME_lin_burja_1809/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'lin_burja_1809'
+     resolution : 500
+     levels : 90

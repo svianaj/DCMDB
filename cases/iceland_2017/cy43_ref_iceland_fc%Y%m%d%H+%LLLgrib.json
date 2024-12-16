@@ -1,0 +1,6337 @@
+{ "messages" : [ 
+  {
+    "indicatorOfParameter": 124,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "uflx"
+  },
+  {
+    "indicatorOfParameter": 125,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "vflx"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 113,
+    "level": 0,
+    "typeOfLevel": "nominalTop",
+    "timeRangeIndicator": 4,
+    "shortName": "nswrt"
+  },
+  {
+    "indicatorOfParameter": 111,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "nswrs"
+  },
+  {
+    "indicatorOfParameter": 114,
+    "level": 0,
+    "typeOfLevel": "nominalTop",
+    "timeRangeIndicator": 4,
+    "shortName": "nlwrt"
+  },
+  {
+    "indicatorOfParameter": 112,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "nlwrs"
+  },
+  {
+    "indicatorOfParameter": 132,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "lhe"
+  },
+  {
+    "indicatorOfParameter": 244,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "lhsub"
+  },
+  {
+    "indicatorOfParameter": 245,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "wevap"
+  },
+  {
+    "indicatorOfParameter": 246,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "snsub"
+  },
+  {
+    "indicatorOfParameter": 122,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "sshf"
+  },
+  {
+    "indicatorOfParameter": 130,
+    "level": 0,
+    "typeOfLevel": "nominalTop",
+    "timeRangeIndicator": 4,
+    "shortName": "cssw"
+  },
+  {
+    "indicatorOfParameter": 130,
+    "level": 65,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "cssw"
+  },
+  {
+    "indicatorOfParameter": 131,
+    "level": 0,
+    "typeOfLevel": "nominalTop",
+    "timeRangeIndicator": 4,
+    "shortName": "cslw"
+  },
+  {
+    "indicatorOfParameter": 131,
+    "level": 65,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "cslw"
+  },
+  {
+    "indicatorOfParameter": 116,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "swavr"
+  },
+  {
+    "indicatorOfParameter": 116,
+    "level": 0,
+    "typeOfLevel": "nominalTop",
+    "timeRangeIndicator": 4,
+    "shortName": "swavr"
+  },
+  {
+    "indicatorOfParameter": 140,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "dni"
+  },
+  {
+    "indicatorOfParameter": 117,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "grad"
+  },
+  {
+    "indicatorOfParameter": 115,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "lwavr"
+  },
+  {
+    "indicatorOfParameter": 65,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "sf"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 81,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "lsm"
+  },
+  {
+    "indicatorOfParameter": 251,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "aers"
+  },
+  {
+    "indicatorOfParameter": 252,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "aerl"
+  },
+  {
+    "indicatorOfParameter": 253,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "aerc"
+  },
+  {
+    "indicatorOfParameter": 254,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "aerd"
+  },
+  {
+    "indicatorOfParameter": 248,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "ao"
+  },
+  {
+    "indicatorOfParameter": 249,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "bo"
+  },
+  {
+    "indicatorOfParameter": 250,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "co"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 1,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 2,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 3,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 4,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 5,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 6,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 7,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 8,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 9,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 10,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 11,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 12,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 13,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 14,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 15,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 16,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 17,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 18,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 19,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 20,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 21,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 22,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 23,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 24,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 25,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 26,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 27,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 28,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 29,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 30,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 31,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 32,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 33,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 34,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 35,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 36,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 37,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 38,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 39,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 40,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 41,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 42,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 43,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 44,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 45,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 46,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 47,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 48,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 49,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 50,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 51,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 52,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 53,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 54,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 55,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 56,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 57,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 58,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 59,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 60,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 61,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 62,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 63,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 64,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 1,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 2,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 3,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 4,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 5,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 6,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 7,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 8,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 9,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 10,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 11,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 12,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 13,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 14,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 15,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 16,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 17,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 18,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 19,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 20,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 21,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 22,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 23,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 24,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 25,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 26,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 27,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 28,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 29,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 30,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 31,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 32,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 33,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 34,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 35,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 36,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 37,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 38,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 39,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 40,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 41,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 42,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 43,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 44,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 45,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 46,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 47,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 48,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 49,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 50,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 51,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 52,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 53,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 54,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 55,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 56,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 57,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 58,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 59,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 60,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 61,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 62,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 63,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 64,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 1,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 2,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 3,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 4,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 5,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 6,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 7,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 8,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 9,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 10,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 11,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 12,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 13,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 14,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 15,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 16,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 17,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 18,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 19,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 20,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 21,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 22,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 23,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 24,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 25,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 26,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 27,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 28,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 29,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 30,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 31,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 32,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 33,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 34,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 35,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 36,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 37,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 38,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 39,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 40,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 41,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 42,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 43,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 44,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 45,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 46,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 47,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 48,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 49,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 50,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 51,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 52,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 53,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 54,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 55,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 56,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 57,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 58,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 59,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 60,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 61,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 62,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 63,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 64,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 1,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 2,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 3,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 4,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 5,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 6,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 7,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 8,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 9,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 10,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 11,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 12,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 13,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 14,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 15,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 16,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 17,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 18,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 19,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 20,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 21,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 22,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 23,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 24,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 25,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 26,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 27,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 28,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 29,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 30,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 31,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 32,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 33,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 34,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 35,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 36,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 37,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 38,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 39,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 40,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 41,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 42,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 43,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 44,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 45,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 46,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 47,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 48,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 49,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 50,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 51,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 52,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 53,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 54,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 55,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 56,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 57,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 58,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 59,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 60,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 61,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 62,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 63,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 64,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 1,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 2,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 3,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 4,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 5,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 6,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 7,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 8,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 9,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 10,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 11,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 12,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 13,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 14,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 15,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 16,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 17,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 18,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 19,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 20,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 21,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 22,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 23,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 24,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 25,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 26,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 27,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 28,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 29,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 30,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 31,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 32,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 33,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 34,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 35,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 36,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 37,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 38,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 39,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 40,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 41,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 42,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 43,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 44,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 45,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 46,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 47,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 48,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 49,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 50,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 51,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 52,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 53,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 54,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 55,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 56,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 57,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 58,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 59,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 60,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 61,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 62,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 63,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 64,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 1,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 2,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 3,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 4,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 5,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 6,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 7,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 8,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 9,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 10,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 11,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 12,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 13,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 14,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 15,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 16,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 17,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 18,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 19,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 20,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 21,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 22,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 23,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 24,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 25,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 26,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 27,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 28,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 29,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 30,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 31,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 32,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 33,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 34,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 35,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 36,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 37,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 38,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 39,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 40,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 41,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 42,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 43,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 44,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 45,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 46,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 47,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 48,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 49,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 50,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 51,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 52,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 53,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 54,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 55,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 56,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 57,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 58,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 59,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 60,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 61,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 62,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 63,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 64,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 1,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 2,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 3,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 4,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 5,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 6,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 7,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 8,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 9,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 10,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 11,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 12,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 13,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 14,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 15,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 16,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 17,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 18,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 19,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 20,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 21,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 22,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 23,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 24,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 25,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 26,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 27,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 28,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 29,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 30,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 31,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 32,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 33,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 34,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 35,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 36,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 37,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 38,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 39,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 40,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 41,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 42,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 43,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 44,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 45,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 46,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 47,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 48,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 49,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 50,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 51,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 52,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 53,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 54,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 55,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 56,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 57,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 58,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 59,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 60,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 61,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 62,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 63,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 64,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 200,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tke"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 1,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 2,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 3,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 4,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 5,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 6,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 7,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 8,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 9,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 10,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 11,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 12,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 13,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 14,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 15,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 16,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 17,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 18,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 19,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 20,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 21,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 22,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 23,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 24,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 25,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 26,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 27,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 28,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 29,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 30,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 31,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 32,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 33,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 34,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 35,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 36,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 37,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 38,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 39,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 40,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 41,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 42,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 43,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 44,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 45,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 46,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 47,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 48,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 49,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 50,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 51,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 52,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 53,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 54,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 55,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 56,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 57,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 58,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 59,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 60,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 61,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 62,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 63,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 64,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 113,
+    "level": 0,
+    "typeOfLevel": "nominalTop",
+    "timeRangeIndicator": 0,
+    "shortName": "nswrt"
+  },
+  {
+    "indicatorOfParameter": 116,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "swavr"
+  },
+  {
+    "indicatorOfParameter": 114,
+    "level": 0,
+    "typeOfLevel": "nominalTop",
+    "timeRangeIndicator": 0,
+    "shortName": "nlwrt"
+  },
+  {
+    "indicatorOfParameter": 115,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "lwavr"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 72,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "ccc"
+  },
+  {
+    "indicatorOfParameter": 75,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "hcc"
+  },
+  {
+    "indicatorOfParameter": 74,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "mcc"
+  },
+  {
+    "indicatorOfParameter": 73,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "lcc"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 16,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2,
+    "shortName": "tmin"
+  },
+  {
+    "indicatorOfParameter": 15,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2,
+    "shortName": "tmax"
+  },
+  {
+    "indicatorOfParameter": 67,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "mld"
+  },
+  {
+    "indicatorOfParameter": 162,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2,
+    "shortName": "ugst"
+  },
+  {
+    "indicatorOfParameter": 163,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2,
+    "shortName": "vgst"
+  },
+  {
+    "indicatorOfParameter": 161,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "xhail"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 1,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 1,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 1,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 1,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 1,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 2,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 2,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 2,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 2,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 2,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 3,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 3,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 3,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 3,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 3,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 4,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 4,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 4,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 4,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 4,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 5,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 5,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 5,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 5,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 5,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 6,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 6,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 6,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 6,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 6,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 7,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 7,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 7,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 7,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 7,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 8,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 8,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 8,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 8,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 8,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 9,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 9,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 9,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 9,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 9,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 10,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 10,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 10,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 10,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 10,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 11,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 11,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 11,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 11,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 11,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 12,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 12,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 12,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 12,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 12,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 13,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 13,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 13,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 13,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 13,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 14,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 14,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 14,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 14,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 14,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 15,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 15,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 15,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 15,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 15,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 16,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 16,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 16,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 16,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 16,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 17,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 17,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 17,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 17,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 17,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 18,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 18,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 18,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 18,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 18,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 19,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 19,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 19,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 19,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 19,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 20,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 20,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 20,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 20,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 20,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 21,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 21,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 21,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 21,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 21,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 22,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 22,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 22,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 22,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 22,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 23,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 23,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 23,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 23,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 23,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 24,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 24,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 24,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 24,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 24,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 25,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 25,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 25,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 25,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 25,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 26,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 26,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 26,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 26,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 26,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 27,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 27,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 27,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 27,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 27,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 28,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 28,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 28,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 28,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 28,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 29,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 29,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 29,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 29,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 29,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 30,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 30,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 30,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 30,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 30,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 31,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 31,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 31,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 31,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 31,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 32,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 32,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 32,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 32,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 32,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 33,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 33,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 33,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 33,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 33,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 34,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 34,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 34,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 34,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 34,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 35,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 35,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 35,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 35,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 35,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 36,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 36,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 36,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 36,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 36,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 37,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 37,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 37,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 37,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 37,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 38,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 38,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 38,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 38,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 38,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 39,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 39,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 39,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 39,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 39,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 40,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 40,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 40,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 40,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 40,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 41,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 41,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 41,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 41,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 41,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 42,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 42,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 42,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 42,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 42,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 43,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 43,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 43,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 43,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 43,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 44,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 44,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 44,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 44,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 44,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 45,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 45,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 45,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 45,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 45,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 46,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 46,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 46,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 46,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 46,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 47,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 47,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 47,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 47,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 47,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 48,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 48,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 48,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 48,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 48,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 49,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 49,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 49,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 49,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 49,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 50,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 50,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 50,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 50,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 50,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 51,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 51,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 51,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 51,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 51,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 52,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 52,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 52,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 52,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 52,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 53,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 53,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 53,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 53,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 53,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 54,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 54,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 54,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 54,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 54,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 55,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 55,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 55,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 55,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 55,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 56,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 56,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 56,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 56,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 56,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 57,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 57,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 57,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 57,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 57,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 58,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 58,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 58,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 58,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 58,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 59,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 59,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 59,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 59,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 59,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 60,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 60,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 60,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 60,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 60,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 61,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 61,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 61,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 61,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 61,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "pres"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 62,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 62,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 62,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 62,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 62,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 63,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 63,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 63,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 63,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 63,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 64,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 64,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 64,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 64,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 64,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 212,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "pdep"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 213,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "vdiv"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 0,
+    "typeOfLevel": "heightAboveSea",
+    "timeRangeIndicator": 0,
+    "shortName": "pres"
+  },
+  {
+    "indicatorOfParameter": 61,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "tp"
+  }
+]}

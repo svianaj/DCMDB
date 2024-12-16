@@ -1,0 +1,4115 @@
+{ "messages" : [ 
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 60,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "sdwe"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 1500000000000,
+    "typeOfLevel": "potentialVorticity",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 90,
+    "typeOfLevel": "hybrid",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 6,
+    "level": 0,
+    "typeOfLevel": "isothermZero",
+    "stepType": "instant",
+    "shortName": "h"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 198,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "accum",
+    "shortName": "uflx"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 199,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "accum",
+    "shortName": "vflx"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 4,
+    "parameterNumber": 9,
+    "level": 0,
+    "typeOfLevel": "nominalTop",
+    "stepType": "accum",
+    "shortName": "nswrt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 2000000000000,
+    "typeOfLevel": "potentialVorticity",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 90,
+    "typeOfLevel": "hybrid",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 4,
+    "parameterNumber": 9,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "accum",
+    "shortName": "nswrs"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 5,
+    "parameterNumber": 5,
+    "level": 0,
+    "typeOfLevel": "nominalTop",
+    "stepType": "accum",
+    "shortName": "nlwrt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 5,
+    "parameterNumber": 5,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "accum",
+    "shortName": "nlwrs"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 1500000000000,
+    "typeOfLevel": "potentialVorticity",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 193,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "accum",
+    "shortName": "lhe"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 202,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "accum",
+    "shortName": "lhsub"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 90,
+    "typeOfLevel": "hybrid",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 6,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "accum",
+    "shortName": "wevap"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 62,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "accum",
+    "shortName": "snsub"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 11,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "accum",
+    "shortName": "shf"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 2000000000000,
+    "typeOfLevel": "potentialVorticity",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 90,
+    "typeOfLevel": "hybrid",
+    "stepType": "instant",
+    "shortName": "q"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 4,
+    "parameterNumber": 3,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "accum",
+    "shortName": "grad"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 5,
+    "parameterNumber": 4,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "accum",
+    "shortName": "lwavr"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 65,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "accum",
+    "shortName": "rain"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 1500000000000,
+    "typeOfLevel": "potentialVorticity",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 53,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "accum",
+    "shortName": "snow"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 75,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "accum",
+    "shortName": "grpl"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 83,
+    "level": 90,
+    "typeOfLevel": "hybrid",
+    "stepType": "instant",
+    "shortName": "cwat_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "t"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 0,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "2sh"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 2000000000000,
+    "typeOfLevel": "potentialVorticity",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 84,
+    "level": 90,
+    "typeOfLevel": "hybrid",
+    "stepType": "instant",
+    "shortName": "ciwc_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 6,
+    "level": 26315,
+    "typeOfLevel": "isothermal",
+    "stepType": "instant",
+    "shortName": "h"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 2,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "u"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 3,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "v"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 23,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "max",
+    "shortName": "10efg"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 2,
+    "level": 1500000000000,
+    "typeOfLevel": "potentialVorticity",
+    "stepType": "instant",
+    "shortName": "pt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 24,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "max",
+    "shortName": "10nfg"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "max",
+    "shortName": "tmax"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 0,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "min",
+    "shortName": "tmin"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 4,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "z"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 2,
+    "level": 2000000000000,
+    "typeOfLevel": "potentialVorticity",
+    "stepType": "instant",
+    "shortName": "pt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 86,
+    "level": 90,
+    "typeOfLevel": "hybrid",
+    "stepType": "instant",
+    "shortName": "snow_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 193,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "ccc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 196,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "hcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 3,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "papt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 3,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "papt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 3,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "papt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 3,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "papt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 3,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "papt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 3,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "papt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 3,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "papt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 3,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "papt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 85,
+    "level": 90,
+    "typeOfLevel": "hybrid",
+    "stepType": "instant",
+    "shortName": "rain_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 195,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "mcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 194,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "lcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 6,
+    "parameterNumber": 192,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "tcc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 3,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "papt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 3,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "papt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 3,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "papt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 3,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "papt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 3,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "papt"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 15,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "vptmp"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 15,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "vptmp"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 15,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "vptmp"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 15,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "vptmp"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 15,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "vptmp"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 15,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "vptmp"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 15,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "vptmp"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 0,
+    "parameterNumber": 15,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "vptmp"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 9,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "w"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 9,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "w"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 9,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "w"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 9,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "w"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 9,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "w"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 192,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "r"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 10,
+    "level": 1500000000000,
+    "typeOfLevel": "potentialVorticity",
+    "stepType": "instant",
+    "shortName": "absv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 19,
+    "parameterNumber": 3,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "mld"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 203,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "xhail"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 65,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "rain"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 9,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "w"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 9,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "w"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 9,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "w"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 9,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "w"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 9,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "w"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 9,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "w"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 9,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "w"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 9,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "w"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 9,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "w"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 9,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "w"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 9,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "w"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 14,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "pv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 14,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "pv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 14,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "pv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 14,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "pv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 14,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "pv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 14,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "pv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 14,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "pv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 0,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "pres"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 0,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "pres"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 0,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "pres"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 0,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "pres"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 0,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "pres"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 0,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "pres"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 0,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "pres"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 0,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "pres"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 0,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "pres"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 0,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "pres"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 10,
+    "level": 2000000000000,
+    "typeOfLevel": "potentialVorticity",
+    "stepType": "instant",
+    "shortName": "absv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 32,
+    "level": 90,
+    "typeOfLevel": "hybrid",
+    "stepType": "instant",
+    "shortName": "grpl_cond"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 53,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "snow"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 75,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "grpl"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 14,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "pv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 14,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "pv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 14,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "pv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 14,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "pv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 14,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "pv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 14,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "pv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 14,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "pv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 14,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "pv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 14,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "pv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 10,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "absv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 10,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "absv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 10,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "absv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 10,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "absv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 10,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "absv"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 13,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "d"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 13,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "stepType": "instant",
+    "shortName": "d"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 0,
+    "level": 0,
+    "typeOfLevel": "heightAboveSea",
+    "stepType": "instant",
+    "shortName": "pres"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 64,
+    "level": 0,
+    "typeOfLevel": "entireAtmosphere",
+    "stepType": "instant",
+    "shortName": "wvint"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 0,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "pres"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 0,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "pres"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 0,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "pres"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 6,
+    "level": 0,
+    "typeOfLevel": "isothermZeroWetBulb",
+    "stepType": "instant",
+    "shortName": "h"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 7,
+    "parameterNumber": 6,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "cape"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 7,
+    "parameterNumber": 7,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "cin"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 6,
+    "level": 0,
+    "typeOfLevel": "adiabaticCondensation",
+    "stepType": "instant",
+    "shortName": "lcl"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 6,
+    "level": 0,
+    "typeOfLevel": "levelFreeConvection",
+    "stepType": "instant",
+    "shortName": "lfc"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 3,
+    "parameterNumber": 6,
+    "level": 0,
+    "typeOfLevel": "levelNeutralBuoyancy",
+    "stepType": "instant",
+    "shortName": "lnb"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 0,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "wdir"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 1,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "instant",
+    "shortName": "ws"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 8,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "accum",
+    "shortName": "tp"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 1,
+    "parameterNumber": 200,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "accum",
+    "shortName": "tpsolid"
+  },
+  {
+    "discipline": 0,
+    "parameterCategory": 2,
+    "parameterNumber": 22,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "stepType": "max",
+    "shortName": "fg"
+  }
+]}

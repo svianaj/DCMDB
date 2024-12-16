@@ -1,0 +1,11 @@
+spain_heatwave_20240724: 
+
+  file_templates : ['GRIBPFDEODES_heatwave_20240723+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/ic0/deode/CY48t3_AROME_ES_heatwave_20240723/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ES_heatwave_20240723'
+    resolution : 500
+    levels : 90

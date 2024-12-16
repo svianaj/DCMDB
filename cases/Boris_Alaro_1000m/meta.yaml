@@ -1,0 +1,11 @@
+Aut_fl_Boris_12_18Sep2024: 
+
+  file_templates : ['GRIBPFDEODAustria_fl_d03_1000m+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s']
+
+  atos:
+    path_template : 'ec:/fie/deode/CY48t3_ALARO_Boris_12to18Sep2024_Austria_fl_d03_1000m/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'Austria_fl_d03_1000m'
+    resolution : 1000
+    levels : 90

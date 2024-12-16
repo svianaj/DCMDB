@@ -1,0 +1,17 @@
+spain_flooding_20240920_500m: 
+
+  file_templates : [ 'GRIBPFDEODes_fl_20240920+%LLLLh00m00s',
+                     'GRIBDEOD+%LLLLh00m00s.sfx',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ec:/nhac/deode/CY46h1_HARMONIE_AROME_es_fl_20240920/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'es_fl_20240920'
+     resolution : 500
+     levels : 90

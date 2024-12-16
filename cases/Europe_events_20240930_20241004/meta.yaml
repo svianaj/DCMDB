@@ -1,0 +1,73 @@
+DTF_Flood_03Oct2024_00Z_ROM: 
+
+  file_templates : ['GRIBPFDEODrumania_20241003+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY48t3_ALARO_rumania_20241003/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'rumania_20241003'
+    resolution : 500
+    levels : 90
+
+DTF_Flood_03Oct2024_00Z_IRL: 
+
+  file_templates : ['GRIBPFDEODIRL_04102024+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_IRL_04102024/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'IRL_04102024'
+    resolution : 500
+    levels : 90
+
+
+DTF_Flood_30Sep2024_00Z_ADRIATIC: 
+
+  file_templates : ['GRIBPFDEODADRIATIC_30092024+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY48t3_ALARO_ADRIATIC_30092024/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ADRIATIC_30092024'
+    resolution : 500
+    levels : 90
+
+DTF_Flood_30Sep2024_00Z_DEN: 
+
+  file_templates : ['GRIBPFDEODDEN_30092024+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_DEN_30092024/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'DEN_30092024'
+    resolution : 500
+    levels : 90
+
+
+DTF_storm_30Sep2024_00Z_scandinavia: 
+
+  file_templates : ['GRIBPFDEODscandinavia_20240930+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_scandinavia_20240930/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'scandinavia_20240930'
+    resolution : 500
+    levels : 90
+
+DTF_Fire_29Sep2024_00Z_GRE: 
+
+  file_templates : ['GRIBPFDEODgreece_20240929+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_greece_20240929/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'greece_20240929'
+    resolution : 500
+    levels : 90

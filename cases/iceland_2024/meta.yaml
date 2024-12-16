@@ -1,0 +1,71 @@
+Iceland_precip_20240710_20240714: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/iczx/deode/CY46h1_HARMONIE_AROME_IS_20240710_500m/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ISL_500m'
+    resolution : 500
+    levels : 90
+
+Iceland_precip_20240822:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/iczx/deode/CY46h1_HARMONIE_AROME_nwp_ISL_500m_20240822/archive/%Y/%m/%d/%H/'
+
+  domain :
+    name : 'ISL_500m'
+    resolution : 500
+    levels : 90
+
+Iceland_precip_20240823:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/iczx/deode/CY46h1_HARMONIE_AROME_nwp_ISL_500m_20240823/archive/%Y/%m/%d/%H/'
+
+  domain :
+    name : 'ISL_500m'
+    resolution : 500
+    levels : 90
+
+Iceland_precip_20240830:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/iczx/deode/CY46h1_HARMONIE_AROME_nwp_ISL_500m_20240830/archive/%Y/%m/%d/%H/'
+
+  domain :
+    name : 'ISL_500m'
+    resolution : 500
+    levels : 90
+
+Iceland_precip_20240831:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/iczx/deode/CY46h1_HARMONIE_AROME_nwp_ISL_500m_20240831/archive/%Y/%m/%d/%H/'
+
+  domain :
+    name : 'ISL_500m'
+    resolution : 500
+    levels : 90
+
+Iceland_precip_20240901:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/iczx/deode/CY46h1_HARMONIE_AROME_nwp_ISL_500m_20240901/archive/%Y/%m/%d/%H/'
+
+  domain :
+    name : 'ISL_500m'
+    resolution : 500
+    levels : 90

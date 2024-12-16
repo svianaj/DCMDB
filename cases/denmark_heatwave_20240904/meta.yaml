@@ -1,0 +1,11 @@
+denmark_heatwave_20240904: 
+
+  file_templates : ['GRIBPFDEODDK_heat_20240904+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/ic0/deode/CY46h1_HARMONIE_AROME_DK_heat_20240904/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'DK_heat_20240904'
+    resolution : 500
+    levels : 90

@@ -1,0 +1,11 @@
+Mallorca_flood_20240903: 
+
+  file_templates : ['GRIBPFDEODMallorca500+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+          path_template : 'ectmp:/sbyk/deode/CY48t3_AROME_Mallorca500/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'Mallorca500'
+    resolution : 500
+    levels : 90

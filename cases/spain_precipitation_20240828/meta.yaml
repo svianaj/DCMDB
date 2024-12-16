@@ -1,0 +1,11 @@
+spain_precipitation_20240828: 
+
+  file_templates : ['GRIBPFDEODSpain_20240828+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/iczx/deode/CY46h1_HARMONIE_AROME_Spain_20240828/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'Spain_20240828'
+    resolution : 500
+    levels : 90

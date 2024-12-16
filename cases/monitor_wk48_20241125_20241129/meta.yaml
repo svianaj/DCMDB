@@ -1,0 +1,89 @@
+HARMONIE_AROME_500m_EST_20241125_storm_csc_lt1:
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+  atos:
+    path_template: 'ec:/aut6432/DE_NWP/deode/2024/11/25/00/storm/0/HARMONIE_AROME_500m/'
+  domain:
+    name: EST_20241125_storm_csc_lt1
+    resolution: 500
+    levels: 90
+
+HARMONIE_AROME_500m_DNK_20241126_flood_1_csc_lt1:
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+  atos:
+    path_template: 'ec:/aut6432/DE_NWP/deode/2024/11/26/00/flooding/0/HARMONIE_AROME_500m/'
+  domain:
+    name: DNK_20241126_flood_1_csc_lt1
+    resolution: 500
+    levels: 90
+
+HARMONIE_AROME_500m_GER_20241127_storm_4_nom_lt1:
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+  atos:
+    path_template: 'ec:/aut6432/DE_NWP/deode/2024/11/27/00/storm/0/HARMONIE_AROME_500m/'
+  domain:
+    name: GER_20241127_storm_4_nom_lt1
+    resolution: 500
+    levels: 90
+
+ALARO_500m_CRO_20241127_storm_custom:
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+  atos:
+    path_template: 'ec:/aut6432/DE_NWP/deode/2024/11/27/00/storm/0/ALARO_500m/'
+  domain:
+    name: CRO_20241127_storm_custom
+    resolution: 500
+    levels: 90
+
+HARMONIE_AROME_500m_NOR_20241127_storm_2_csc_lt1:
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+  atos:
+    path_template: 'ec:/aut6432/DE_NWP/deode/2024/11/27/00/storm/2/HARMONIE_AROME_500m'
+  domain:
+    name: NOR_20241127_storm_2_csc_lt1
+    resolution: 500
+    levels: 90
+
+ALARO_500m_CZE_20241128_flood_1_csc_lt1:
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+  atos:
+    path_template: 'ec:/aut6432/DE_NWP/deode/2024/11/28/00/flooding/1/ALARO_500m/'
+  domain:
+    name: CZE_20241128_flood_1_csc_lt1
+    resolution: 500
+    levels: 90
+
+HARMONIE_AROME_500m_NOR_20241128_storm_1_csc_lt1:
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+  atos:
+    path_template: 'ec:/aut6432/DE_NWP/deode/2024/11/28/00/storm/1/HARMONIE_AROME_500m/'
+  domain:
+    name: NOR_20241128_storm_1_csc_lt1
+    resolution: 500
+    levels: 90
+
+ALARO_500m_HRV_20241128_storm_101_nom_lt1:
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+  atos:
+    path_template: 'ec:/aut6432/DE_NWP/deode/2024/11/28/00/storm/101/ALARO_500m/'
+  domain:
+    name: HRV_20241128_storm_101_nom_lt1
+    resolution: 500
+    levels: 90
+
+HARMONIE_AROME_500m_SWE_20241129_storm_4_csc_lt1:
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+  atos:
+    path_template: 'ec:/aut6432/DE_NWP/deode/2024/11/29/00/storm/4/HARMONIE_AROME_500m/'
+  domain:
+    name: SWE_20241129_storm_4_csc_lt1
+    resolution: 500
+    levels: 90
+
+ALARO_500m_HRV_20241129_storm_101_nom_lt1:
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+  atos:
+    path_template: 'ec:/aut6432/DE_NWP/deode/2024/11/29/00/storm/101/ALARO_500m/'
+  domain:
+    name: HRV_20241129_storm_101_nom_lt1
+    resolution: 500
+    levels: 90

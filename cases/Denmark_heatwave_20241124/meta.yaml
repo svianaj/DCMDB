@@ -1,0 +1,44 @@
+Den_heatwave_20241124_HAR_ARO_500m: 
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+  atos:
+    path_template : 'ec:/fie/deode/CY46h1_HARMONIE_AROME_heatwave_DK_1500x1500_500m_20241124/archive/%Y/%m/%d/%H/'
+  domain : 
+    name : 'DK_1500x1500_500m'
+    resolution : 500
+    levels : 90
+
+Den_heatwave_20241124_HAR_ARO_1000m:
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+  atos:
+    path_template : 'ec:/fie/deode/CY46h1_HARMONIE_AROME_heatwave_DK_750x750_1000m_20241124/archive/%Y/%m/%d/%H/'
+  domain :
+    name : 'DK_750x750_1000m'
+    resolution : 1000
+    levels : 90
+
+Den_heatwave_20241124_HAR_ARO_2000m:
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+  atos:
+    path_template : 'ec:/fie/deode/CY46h1_HARMONIE_AROME_heatwave_DK_384x384_2000m_20241124/archive/%Y/%m/%d/%H/'
+  domain :
+    name : 'DK_384x384_2000m'
+    resolution : 2000
+    levels : 90
+
+Den_heatwave_20241124_AROME_500m:
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+  atos:
+    path_template : 'ec:/fie/deode/CY48t3_AROME_heatwave_DK_1500x1500_500m_20241124/archive/%Y/%m/%d/%H/'
+  domain :
+    name : 'DK_1500x1500_500m'
+    resolution : 500
+    levels : 90
+
+Den_heatwave_20241124_ALARO_500m:
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s']
+  atos:
+    path_template : 'ec:/fie/deode/CY48t3_ALARO_heatwave_DK_1500x1500_500m_20241124/archive/%Y/%m/%d/%H/'
+  domain :
+    name : 'DK_1500x1500_500m'
+    resolution : 500
+    levels : 90

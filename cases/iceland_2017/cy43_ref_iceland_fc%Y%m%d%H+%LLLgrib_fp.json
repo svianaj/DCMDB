@@ -1,0 +1,3201 @@
+{ "messages" : [ 
+  {
+    "indicatorOfParameter": 11,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 65,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "sf"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 1500,
+    "typeOfLevel": "potentialVorticity",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 8,
+    "level": 0,
+    "typeOfLevel": "isothermZero",
+    "timeRangeIndicator": 0,
+    "shortName": "h"
+  },
+  {
+    "indicatorOfParameter": 124,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "uflx"
+  },
+  {
+    "indicatorOfParameter": 125,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "vflx"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 2000,
+    "typeOfLevel": "potentialVorticity",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 113,
+    "level": 0,
+    "typeOfLevel": "nominalTop",
+    "timeRangeIndicator": 4,
+    "shortName": "nswrt"
+  },
+  {
+    "indicatorOfParameter": 111,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "nswrs"
+  },
+  {
+    "indicatorOfParameter": 114,
+    "level": 0,
+    "typeOfLevel": "nominalTop",
+    "timeRangeIndicator": 4,
+    "shortName": "nlwrt"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 112,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "nlwrs"
+  },
+  {
+    "indicatorOfParameter": 132,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "lhe"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 1500,
+    "typeOfLevel": "potentialVorticity",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 244,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "lhsub"
+  },
+  {
+    "indicatorOfParameter": 245,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "wevap"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 2000,
+    "typeOfLevel": "potentialVorticity",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 246,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "snsub"
+  },
+  {
+    "indicatorOfParameter": 122,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "sshf"
+  },
+  {
+    "indicatorOfParameter": 117,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "grad"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 115,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "lwavr"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 1500,
+    "typeOfLevel": "potentialVorticity",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 76,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "cwat"
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "t"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "q"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 2000,
+    "typeOfLevel": "potentialVorticity",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 58,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "ciwc"
+  },
+  {
+    "indicatorOfParameter": 8,
+    "level": 26315,
+    "typeOfLevel": "unknown",
+    "timeRangeIndicator": 0,
+    "shortName": "h"
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "u"
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "v"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 1500,
+    "typeOfLevel": "potentialVorticity",
+    "timeRangeIndicator": 0,
+    "shortName": "pt"
+  },
+  {
+    "indicatorOfParameter": 162,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2,
+    "shortName": "ugst"
+  },
+  {
+    "indicatorOfParameter": 163,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2,
+    "shortName": "vgst"
+  },
+  {
+    "indicatorOfParameter": 15,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2,
+    "shortName": "tmax"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 16,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2,
+    "shortName": "tmin"
+  },
+  {
+    "indicatorOfParameter": 72,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "ccc"
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "z"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 2000,
+    "typeOfLevel": "potentialVorticity",
+    "timeRangeIndicator": 0,
+    "shortName": "pt"
+  },
+  {
+    "indicatorOfParameter": 75,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "hcc"
+  },
+  {
+    "indicatorOfParameter": 74,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "mcc"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 14,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "papt"
+  },
+  {
+    "indicatorOfParameter": 14,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "papt"
+  },
+  {
+    "indicatorOfParameter": 14,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "papt"
+  },
+  {
+    "indicatorOfParameter": 14,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "papt"
+  },
+  {
+    "indicatorOfParameter": 14,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "papt"
+  },
+  {
+    "indicatorOfParameter": 14,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "papt"
+  },
+  {
+    "indicatorOfParameter": 14,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "papt"
+  },
+  {
+    "indicatorOfParameter": 14,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "papt"
+  },
+  {
+    "indicatorOfParameter": 14,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "papt"
+  },
+  {
+    "indicatorOfParameter": 14,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "papt"
+  },
+  {
+    "indicatorOfParameter": 14,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "papt"
+  },
+  {
+    "indicatorOfParameter": 14,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "papt"
+  },
+  {
+    "indicatorOfParameter": 14,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "papt"
+  },
+  {
+    "indicatorOfParameter": 176,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "unknown"
+  },
+  {
+    "indicatorOfParameter": 176,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "unknown"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 41,
+    "level": 1500,
+    "typeOfLevel": "potentialVorticity",
+    "timeRangeIndicator": 0,
+    "shortName": "absv"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 73,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "lcc"
+  },
+  {
+    "indicatorOfParameter": 71,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "tcc"
+  },
+  {
+    "indicatorOfParameter": 67,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "mld"
+  },
+  {
+    "indicatorOfParameter": 176,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "unknown"
+  },
+  {
+    "indicatorOfParameter": 176,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "unknown"
+  },
+  {
+    "indicatorOfParameter": 176,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "unknown"
+  },
+  {
+    "indicatorOfParameter": 176,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "unknown"
+  },
+  {
+    "indicatorOfParameter": 176,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "unknown"
+  },
+  {
+    "indicatorOfParameter": 176,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "unknown"
+  },
+  {
+    "indicatorOfParameter": 40,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tw"
+  },
+  {
+    "indicatorOfParameter": 40,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tw"
+  },
+  {
+    "indicatorOfParameter": 40,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tw"
+  },
+  {
+    "indicatorOfParameter": 40,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tw"
+  },
+  {
+    "indicatorOfParameter": 40,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tw"
+  },
+  {
+    "indicatorOfParameter": 40,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tw"
+  },
+  {
+    "indicatorOfParameter": 40,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tw"
+  },
+  {
+    "indicatorOfParameter": 40,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tw"
+  },
+  {
+    "indicatorOfParameter": 40,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tw"
+  },
+  {
+    "indicatorOfParameter": 40,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tw"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "r"
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 20,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "pres"
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 50,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "pres"
+  },
+  {
+    "indicatorOfParameter": 161,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "xhail"
+  },
+  {
+    "indicatorOfParameter": 181,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "rain"
+  },
+  {
+    "indicatorOfParameter": 40,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tw"
+  },
+  {
+    "indicatorOfParameter": 40,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tw"
+  },
+  {
+    "indicatorOfParameter": 40,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tw"
+  },
+  {
+    "indicatorOfParameter": 40,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tw"
+  },
+  {
+    "indicatorOfParameter": 40,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tw"
+  },
+  {
+    "indicatorOfParameter": 40,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "tw"
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 50,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "pv"
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 100,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "pv"
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 150,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "pv"
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 200,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "pv"
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 250,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "pv"
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "pv"
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 400,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "pv"
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "pv"
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "pv"
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "pv"
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 100,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "pres"
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "pres"
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "pres"
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 750,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "pres"
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 1000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "pres"
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 1250,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "pres"
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 1500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "pres"
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 2000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "pres"
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 2500,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "pres"
+  },
+  {
+    "indicatorOfParameter": 41,
+    "level": 2000,
+    "typeOfLevel": "potentialVorticity",
+    "timeRangeIndicator": 0,
+    "shortName": "absv"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 65,
+    "typeOfLevel": "hybrid",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 184,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "snow"
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "grpl"
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 800,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "pv"
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "pv"
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 900,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "pv"
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 925,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "pv"
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "pv"
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 1000,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "pv"
+  },
+  {
+    "indicatorOfParameter": 41,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "absv"
+  },
+  {
+    "indicatorOfParameter": 41,
+    "level": 500,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "absv"
+  },
+  {
+    "indicatorOfParameter": 41,
+    "level": 600,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "absv"
+  },
+  {
+    "indicatorOfParameter": 41,
+    "level": 700,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "absv"
+  },
+  {
+    "indicatorOfParameter": 41,
+    "level": 850,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "absv"
+  },
+  {
+    "indicatorOfParameter": 44,
+    "level": 300,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "d"
+  },
+  {
+    "indicatorOfParameter": 44,
+    "level": 950,
+    "typeOfLevel": "isobaricInhPa",
+    "timeRangeIndicator": 0,
+    "shortName": "d"
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 0,
+    "typeOfLevel": "heightAboveSea",
+    "timeRangeIndicator": 0,
+    "shortName": "pres"
+  },
+  {
+    "indicatorOfParameter": 54,
+    "level": 0,
+    "typeOfLevel": "entireAtmosphere",
+    "timeRangeIndicator": 0,
+    "shortName": "pwat"
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 3000,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "pres"
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "pres"
+  },
+  {
+    "indicatorOfParameter": 8,
+    "level": 0,
+    "typeOfLevel": "northEastTile",
+    "timeRangeIndicator": 0,
+    "shortName": "h"
+  },
+  {
+    "indicatorOfParameter": 160,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "cape"
+  },
+  {
+    "indicatorOfParameter": 165,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "unknown"
+  },
+  {
+    "indicatorOfParameter": 167,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "totqv"
+  },
+  {
+    "indicatorOfParameter": 168,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "unknown"
+  },
+  {
+    "indicatorOfParameter": 169,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "unknown"
+  },
+  {
+    "indicatorOfParameter": 31,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "wdir"
+  },
+  {
+    "indicatorOfParameter": 32,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0,
+    "shortName": "ws"
+  },
+  {
+    "indicatorOfParameter": 61,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "tp"
+  },
+  {
+    "indicatorOfParameter": 185,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4,
+    "shortName": "tpsolid"
+  },
+  {
+    "indicatorOfParameter": 228,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2,
+    "shortName": "fg"
+  }
+]}

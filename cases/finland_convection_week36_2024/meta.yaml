@@ -1,0 +1,11 @@
+finland_convection_week36_2024: 
+
+  file_templates : ['GRIBPFDEODFINLAND_500M+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/dnk3604/deode/CY46h1_HARMONIE_AROME_FINLAND_500M/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'FINLAND_500M'
+    resolution : 500
+    levels : 90

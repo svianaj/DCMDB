@@ -1,0 +1,263 @@
+SWE_storm_20241028: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_SWE_20241028_storm_1_20241028/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'SWE_20241028_storm_1'
+    resolution : 500
+    levels : 90
+
+SWE_storm_20241029: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY48t3_AROME_nwp_SWE_20241029_storm_1_20241029/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'SWE_20241029_storm_1'
+    resolution : 500
+    levels : 90
+
+ESP_conve_20241029: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_ESP_20241029_conve_2_20241029/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ESP_20241029_conve_2'
+    resolution : 500
+    levels : 90
+
+EST_conve_20241029: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_EST_20241029_conve_3_20241029/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'EST_20241029_conve_3'
+    resolution : 500
+    levels : 90
+
+ESP_conve_20241028: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_ESP_20241028_conve_20241028/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ESP_20241028_conve'
+    resolution : 500
+    levels : 90
+
+NOR_flood_20241030: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_NOR_20241030_flood_1_20241030/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'NOR_20241030_flood_1'
+    resolution : 500
+    levels : 90
+
+SWE_storm_20241030: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_SWE_20241030_storm_1_20241030/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'SWE_20241030_storm_1'
+    resolution : 500
+    levels : 90
+
+ESP_flood_20241028: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY48t3_AROME_nwp_ESP_20241028_flood_20241028/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ESP_20241028_flood'
+    resolution : 500
+    levels : 90
+
+ESP_flood_20241028_1000m: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY48t3_AROME_nwp_ESP_20241028_flood_1000m_20241028/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ESP_20241028_flood_1000m'
+    resolution : 1000
+    levels : 90
+
+ESP_conve_2_20241029_2500m: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_ESP_20241029_conve_2_2500m_20241029/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ESP_20241029_conve_2_2500m'
+    resolution : 2500
+    levels : 90
+
+NOR_flood_20241031: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_NOR_20241030_flood_1_20241031/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'NOR_20241030_flood_1'
+    resolution : 500
+    levels : 90
+
+ESP_flood_20241029_1000m: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY48t3_AROME_nwp_ESP_20241028_flood_1000m_20241029/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ESP_20241028_flood_1000m'
+    resolution : 1000
+    levels : 90
+
+FIN_flood_20241031: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_FIN_20241031_flood_2_20241031/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'FIN_20241031_flood_2'
+    resolution : 500
+    levels : 90
+
+ESP_conve_20241030: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_ESP_20241029_conve_2_20241030/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ESP_20241029_conve_2'
+    resolution : 500
+    levels : 90
+
+ESP_conve_20241029_1000m: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_ESP_20241029_conve_2_1000m_20241029/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ESP_20241029_conve_2_1000m'
+    resolution : 1000
+    levels : 90
+
+ESP_flood_20241029: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY48t3_AROME_nwp_ESP_20241028_flood_20241029/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ESP_20241028_flood'
+    resolution : 500
+    levels : 90
+
+ESP_conve_20241101: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_ESP_20241029_conve_2_20241101/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ESP_20241029_conve_2'
+    resolution : 500
+    levels : 90
+
+NOR_flood_20241101: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_NOR_20241030_flood_1_20241101/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'NOR_20241030_flood_1'
+    resolution : 500
+    levels : 90
+
+ESP_conve_20241031: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_ESP_20241029_conve_2_20241031/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ESP_20241029_conve_2'
+    resolution : 500
+    levels : 90
+
+FIN_flood_20241101: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_FIN_20241031_flood_2_20241101/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'FIN_20241031_flood_2'
+    resolution : 500
+    levels : 90
+
+ESP_conve_20241028_2500m: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/nhac/deode/CY46h1_HARMONIE_AROME_nwp_ESP_20241029_conve_2_2500m_20241028/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ESP_20241029_conve_2_2500m'
+    resolution : 2500
+    levels : 90
+
+ESP_conve_20241028_1000m: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/nhac/deode/CY46h1_HARMONIE_AROME_nwp_ESP_20241029_conve_2_1000m_20241028/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ESP_20241029_conve_2_1000m'
+    resolution : 1000
+    levels : 90

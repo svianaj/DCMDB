@@ -1,0 +1,48 @@
+cy43_ref_iceland:
+
+  file_templates : ['fc%Y%m%d%H+%LLLgrib','fc%Y%m%d%H+%LLLgrib_sfxs','fc%Y%m%d%H+%LLLgrib_fp']
+
+  atos:
+     path_template : 'ec:/icd/DEODE/cy43_ref_iceland/%Y/%m/%d/%H/'
+
+  domain : 
+     name : 'ICELAND'
+     resolution : 2500
+     levels : 65
+
+cy46h1_deode_750m_iceland:
+
+  file_templates : ['fc%Y%m%d%H+%LLLgrib2','fc%Y%m%d%H+%LLLgrib2_fp','fc%Y%m%d%H+%LLLgrib_sfx','fc%Y%m%d%H+%LLLgrib_sfxs']
+
+  atos:
+     path_template : 'ec:/iczx/DEODE/cy46h1_deode_750m_iceland/%Y/%m/%d/%H/'
+
+  domain : 
+     name : 'IS750m'
+     resolution : 750 
+     levels : 90
+
+cy46h1_deode_prototype_v030_750m_iceland:
+
+  file_templates : ['GRIBPFDEODIS750m_1152x972+%LLLLh00m00s','GRIBDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+     path_template : 'ec:/iczx/DEODE/cy46h1_deode_prototype_v030_750m_iceland/%Y/%m/%d/%H/'
+
+  domain : 
+     name : 'IS750m_1152x972'
+     resolution : 750 
+     levels : 90
+
+CY46h1_HARMONIE_AROME_IS500m_2017_1500x1500_v030:
+
+  file_templates : ['GRIBPFDEODIS500m+%LLLLh00m00s','GRIBDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+     path_template : 'ectmp:/iczx/deode/CY46h1_HARMONIE_AROME_IS500m_2017_1500x1500_v030/archive/%Y/%m/%d/%H/'
+
+  domain :
+     name : 'IS500m'
+     resolution : 750
+     levels : 90
+ 

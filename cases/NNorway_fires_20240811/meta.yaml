@@ -1,0 +1,14 @@
+NNorway_fires_20240811: 
+
+  file_templates : [ 'GRIBPFDEODNNorway_fires_500m+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ectmp:/nhad/deode/CY46h1_HARMONIE_AROME_NNorway_fires_500m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'NNorway_fires_500m'
+     resolution : 500
+     levels : 90

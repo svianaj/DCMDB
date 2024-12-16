@@ -1,0 +1,39 @@
+[project]
+name = "dcmdb"
+dynamic = ["version"]
+description = "Destination Earth Digital Twin case database (DE 330)"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "ecmwfspec@git+https://github.com/observingClouds/ecmwfspec@main",
+    "ecgtools",
+    "fsspec",
+    "gribscan",
+    "numcodecs>=0.13",
+    "intake",
+    "intake-xarray",
+    "kerchunk",
+    "tqdm",
+    "pandas",
+    "xarray",
+    "xarray-datatree"
+]
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[tool.pdm.version]
+source = "scm"
+
+[tool.pdm.scripts]
+post_install = "pre-commit install"
+
+[project.urls]
+"Homepage" = "https://github.com/destination-earth-digital-twins/dcmdb"
+
+[project.scripts]
+dcmdb = "dcmdb.dcmdb:main"
+
+[tool.setuptools_scm]
+write_to = "dcmdb/__init__.py"

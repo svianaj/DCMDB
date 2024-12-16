@@ -1,0 +1,11 @@
+Germany_heatwave_20240902: 
+
+  file_templates : ['GRIBPFDEODGermany500+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+          path_template : 'ectmp:/sbyk/deode/CY48t3_AROME_Germany500/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'Germany500'
+    resolution : 500
+    levels : 90

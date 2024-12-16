@@ -1,0 +1,33 @@
+nnordics_storm_20240918: 
+
+  file_templates : [ 'GRIBPFDEODfire_0918_500m+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ec:/nhac/deode/CY46h1_HARMONIE_AROME_fire_0918_500m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'fire_0918_500m'
+     resolution : 500
+     levels : 90
+
+nnordics_storm_20240919: 
+
+  file_templates : [ 'GRIBPFDEODfire_0918_500m+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ec:/nhac/deode/CY46h1_HARMONIE_AROME_fire_0919_500m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'fire_0918_500m'
+     resolution : 500
+     levels : 90

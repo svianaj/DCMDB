@@ -1,0 +1,14 @@
+SENorthSea_flooding_2024:
+
+  file_templates : [ 'GRIBPFDEODCUBIC_1500x1500_500m+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ectmp:/bel4418/deode/CY46h1_HARMONIE_AROME_CUBIC_1500x1500_500m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'CUBIC_1500x1500_500m'
+     resolution : 500
+     levels : 90

@@ -1,0 +1,142 @@
+Portugal_precip_20241015: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY48t3_AROME_nwp_PRT_500m_20241015/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'PRT_500m'
+    resolution : 500
+    levels : 90
+
+France_flood_20241015:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY48t3_AROME_nwp_FRA_500m_20241015/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'FRA_500m'
+    resolution : 500
+    levels : 90
+
+France_flood_20241016:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY48t3_AROME_nwp_FRA_500m_20241016/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'FRA_500m'
+    resolution : 500
+    levels : 90
+
+Spain_storm_20241016:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_ESP_500m_20241016/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ESP_500m'
+    resolution : 500
+    levels : 90
+
+Italy_flood_storm_20241016:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY48t3_AROME_nwp_IT_500m_storm_4_20241016/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ITA_500m'
+    resolution : 500
+    levels : 90
+
+France_flood_20241017:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY48t3_AROME_nwp_FRA_500m_20241017/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'FRA_500m'
+    resolution : 500
+    levels : 90
+
+Iceland_conv_storm_20241017:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_ISL_500m_20241017/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ISL_500m'
+    resolution : 500
+    levels : 90
+
+Italy_conv_flood_20241017:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY48t3_AROME_nwp_IT_500m_conve_2_20241017/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'ITA_500m'
+    resolution : 500
+    levels : 90
+
+France_flood_20241018:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY48t3_AROME_nwp_FRA_500m_20241018/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'FRA_500m'
+    resolution : 500
+    levels : 90
+
+North_Italy_flood_20241018:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY48t3_AROME_nwp_N_ITA_500m_20241018/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'N_ITA_500m'
+    resolution : 500
+    levels : 90
+
+South_Italy_flood_20241018:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY48t3_AROME_nwp_S_ITA_500m_20241018/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'S_ITA_500m'
+    resolution : 500
+    levels : 90
+
+Ireland_storm_20241018:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_IRL_500m_storm_1_20241018/archive/%Y/%m/%d/%H/'
+  domain : 
+    name : 'IRL_500m'
+    resolution : 500
+    levels : 90

@@ -1,0 +1,17 @@
+# Schema for meta.yaml files
+map(include('experiment', min=2))
+---
+experiment:
+  file_templates: list(str(required=True))
+  atos: include('store', required=False)
+  lumi_transfer: include('store', required=False)
+  domain:
+    name: str(required=True)
+    resolution: int(required=True, min=10) # meters
+    levels: int(required=True)
+    xloncen: num(required=False)
+    xlatcen: num(required=False)
+  trigger: any(enum('heatwave','flooding','storm','convection'), list(enum('heatwave','flooding','storm','convection')), required=False)
+---
+store:
+  path_template: str(required=True)

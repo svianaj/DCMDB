@@ -1,0 +1,14 @@
+Slovakia_heatwave_2024: 
+
+  file_templates : [ 'GRIBPFDEODsk_1500x1500_500m+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ectmp:/nhad/deode/CY48t3_AROME_sk_1500x1500_500m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'sk_1500x1500_500m'
+     resolution : 500
+     levels : 90

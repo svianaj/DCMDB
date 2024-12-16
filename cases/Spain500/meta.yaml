@@ -1,0 +1,11 @@
+spain_flood_20240903: 
+
+  file_templates : ['GRIBPFDEODSpain500+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+          path_template : 'ectmp:/sbyk/deode/CY48t3_AROME_Spain500/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'Spain500'
+    resolution : 500
+    levels : 90

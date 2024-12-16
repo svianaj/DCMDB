@@ -1,0 +1,311 @@
+GEurope_flooding_20240914_arome_500m:
+
+  file_templates : [ 'GRIBPFDEODfl_0914_500m+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ec:/nhac/deode/CY48t3_AROME_fl_0914_500m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'fl_0914_500m'
+     resolution : 500
+     levels : 90
+
+CEurope_flooding_20240914_arome_1000m:
+
+  file_templates : [ 'GRIBPFDEODfl_0914_1000m+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ec:/nhac/deode/CY48t3_AROME_fl_0914_1000m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'fl_0914_1000m'
+     resolution : 1000
+     levels : 90
+
+CEurope_flooding_20240914_arome_2000m:
+
+  file_templates : [ 'GRIBPFDEODfl_0914_2000m+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ec:/sink/deode/CY48t3_AROME_fl_0914_2000m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'fl_0914_2000m'
+     resolution : 2000
+     levels : 90
+
+GEurope_flooding_20240912_arome_500m:
+
+  file_templates : [ 'GRIBPFDEODfl_0914_500m+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ec:/nhac/deode/CY48t3_AROME_fl_0912_500m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'fl_0914_500m'
+     resolution : 500
+     levels : 90
+
+CEurope_flooding_20240912_arome_1000m:
+
+  file_templates : [ 'GRIBPFDEODfl_0914_1000m+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ec:/nhac/deode/CY48t3_AROME_fl_0912_1000m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'fl_0914_1000m'
+     resolution : 1000
+     levels : 90
+
+CEurope_flooding_20240912_arome_2000m:
+
+  file_templates : [ 'GRIBPFDEODfl_0912_2000m+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ec:/sink/deode/CY48t3_AROME_fl_0912_2000m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'fl_0912_2000m'
+     resolution : 2000
+     levels : 90
+
+AT_flooding_arome_500m:
+
+  file_templates : [ 'GRIBPFDEODAU_1500x1500_500m+%LLLLh00m00s',
+                     'GRIBDEOD+%LLLLh00m00s.sfx',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ectmp:/nhe/deode/CY48t3_AROME_AU_1500x1500_500m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'AU_1500x1500_500m'
+     resolution : 500
+     levels : 90
+
+AT_flooding_harmonie_arome_500m:
+
+  file_templates : [ 'GRIBPFDEODAU_1500x1500_500m+%LLLLh00m00s',
+                     'GRIBDEOD+%LLLLh00m00s.sfx',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ectmp:/nhe/deode/CY46h1_HARMONIE_AROME_AU_1500x1500_500m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'AU_1500x1500_500m'
+     resolution : 500
+     levels : 90
+
+AT_flooding_alaro_500m:
+
+  file_templates : [ 'GRIBPFDEODAU_1500x1500_500m+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s' ]
+
+  atos:
+     path_template : 'ectmp:/nhe/deode/CY48t3_ALARO_AU_1500x1500_500m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'AU_1500x1500_500m'
+     resolution : 500
+     levels : 90
+
+AT_flooding_harmonie_arome_2000m:
+
+  file_templates : [ 'GRIBPFDEODAU_384x384_2000m+%LLLLh00m00s',
+                     'GRIBDEOD+%LLLLh00m00s.sfx',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ectmp:/nhe/deode/CY46h1_HARMONIE_AROME_AU_384x384_2000m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'AU_384x384_2000m'
+     resolution : 2000
+     levels : 90
+
+CZ_flooding_arome_500m:
+
+  file_templates : [ 'GRIBPFDEODCZ_1500x1500_500m+%LLLLh00m00s',
+                     'GRIBDEOD+%LLLLh00m00s.sfx',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ectmp:/nhe/deode/CY48t3_AROME_CZ_1500x1500_500m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'CZ_1500x1500_500m'
+     resolution : 500
+     levels : 90
+
+CZ_flooding_alaro_500m:
+
+  file_templates : [ 'GRIBPFDEODCZ_1500x1500_500m+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s' ]
+
+  atos:
+     path_template : 'ectmp:/nhe/deode/CY48t3_ALARO_CZ_1500x1500_500m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'CZ_1500x1500_500m'
+     resolution : 500
+     levels : 90
+
+CZ_flooding_harmonie_arome_500m:
+
+  file_templates : [ 'GRIBPFDEODCZ_1500x1500_500m+%LLLLh00m00s',
+                     'GRIBDEOD+%LLLLh00m00s.sfx',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ectmp:/nhe/deode/CY46h1_HARMONIE_AROME_CZ_1500x1500_500m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'CZ_1500x1500_500m'
+     resolution : 500
+     levels : 90
+
+CZ_flooding_harmonie_arome_2000m:
+
+  file_templates : [ 'GRIBPFDEODCZ_384x384_2000m+%LLLLh00m00s',
+                     'GRIBDEOD+%LLLLh00m00s.sfx',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ectmp:/nhe/deode/CY46h1_HARMONIE_AROME_CZ_384x384_2000m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'CZ_384x384_2000m'
+     resolution : 2000
+     levels : 90
+
+SV_flooding_arome_500m:
+
+  file_templates : [ 'GRIBPFDEODSV_1500x1500_500m+%LLLLh00m00s',
+                     'GRIBDEOD+%LLLLh00m00s.sfx',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ectmp:/nhe/deode/CY48t3_AROME_SV_1500x1500_500m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'SV_1500x1500_500m'
+     resolution : 500
+     levels : 90
+
+SV_flooding_alaro_500m:
+
+  file_templates : [ 'GRIBPFDEODSV_1500x1500_500m+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s' ]
+
+  atos:
+     path_template : 'ectmp:/nhe/deode/CY48t3_ALARO_SV_1500x1500_500m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'SV_1500x1500_500m'
+     resolution : 500
+     levels : 90
+
+SV_flooding_harmonie_arome_500m:
+
+  file_templates : [ 'GRIBPFDEODSV_1500x1500_500m+%LLLLh00m00s',
+                     'GRIBDEOD+%LLLLh00m00s.sfx',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ectmp:/nhe/deode/CY46h1_HARMONIE_AROME_SV_1500x1500_500m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'SV_1500x1500_500m'
+     resolution : 500
+     levels : 90
+
+SV_flooding_harmonie_arome_2000m:
+
+  file_templates : [ 'GRIBPFDEODSV_384x384_2000m+%LLLLh00m00s',
+                     'GRIBDEOD+%LLLLh00m00s.sfx',
+                     'ICMSHDEOD+%LLLLh00m00s',
+                     'ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ectmp:/nhe/deode/CY46h1_HARMONIE_AROME_SV_384x384_2000m/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'SV_384x384_2000m'
+     resolution : 2000
+     levels : 90

@@ -1,0 +1,14 @@
+SEFrance_flooding_2024: 
+
+  file_templates : [ 'GRIBPFDEODSEFrance_w33_2024+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx' ]
+
+  atos:
+     path_template : 'ectmp:/nhad/deode/CY48t3_AROME_SEFrance_w33_2024/archive/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : ''
+  
+  domain : 
+     name : 'SEFrance_w33_2024'
+     resolution : 500
+     levels : 90

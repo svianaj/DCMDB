@@ -1,0 +1,42 @@
+name: Meta YAML Schema Validation
+
+on:
+  push:
+    branches:
+      - main
+      - develop
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+    validate-meta-yaml:
+        runs-on: ubuntu-latest
+        steps:
+        - name: Set up Python
+          uses: actions/setup-python@v5
+          with:
+            python-version: '3.x'
+
+        - name: Install yamale
+          run: pip install yamale
+        
+        - name: Checkout code
+          uses: actions/checkout@v4
+
+        - name: Validate meta.yaml files
+          run: |
+                set -e
+                failed=0
+                git fetch origin
+                if [ $(git diff --name-only origin/${{ github.event.pull_request.base.ref }} ${{ github.sha }} | grep -c "meta.yaml") -eq 0 ]; then
+                  echo "No meta.yaml files changed."
+                  exit 0
+                else
+                  changed_files=$(git diff --name-only origin/${{ github.event.pull_request.base.ref }} ${{ github.sha }} | grep "meta.yaml")
+                  for file in $changed_files; do
+                    yamale -s tests/meta_schema.yaml $file || failed=1
+                  done
+                  if [ $failed -ne 0 ]; then
+                    exit 1
+                  fi
+                fi

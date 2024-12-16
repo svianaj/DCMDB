@@ -1,0 +1,23 @@
+northern_scandinavia_storm_domain_1_DTF_suggestion_20240826:
+
+  file_templates : ['GRIBPFDEODNS_20240826+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+     path_template : 'ec:/iczx/deode/CY46h1_HARMONIE_AROME_NS_20240826/archive/%Y/%m/%d/%H/'
+
+  domain :
+     name : 'North Scandinavia'
+     resolution : 500
+     levels : 90
+
+northern_scandinavia_storm_domain_2_DTF_suggestion_20240826: 
+
+  file_templates : ['GRIBPFDEODCUBIC_1500x1500_500m+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/dnk3604/deode/CY46h1_HARMONIE_AROME_CUBIC_1500x1500_500m/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'northern_scandinavia_storm_domain_2_DTF_suggestion_20240826'
+    resolution : 500
+    levels : 90

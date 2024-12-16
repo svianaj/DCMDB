@@ -1,0 +1,11 @@
+Portugal_storm_20240902: 
+
+  file_templates : ['GRIBPFDEODPortugal500+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+          path_template : 'ectmp:/sbyk/deode/CY48t3_AROME_Portugal500/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'Portugal500'
+    resolution : 500
+    levels : 90

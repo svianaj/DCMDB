@@ -1,0 +1,11 @@
+italy_flooding_20240905: 
+
+  file_templates : ['GRIBPFDEODIT_flood_20240905+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/ic0/deode/CY48t3_AROME_IT_flood_20240905/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'IT_flood_20240905'
+    resolution : 500
+    levels : 90

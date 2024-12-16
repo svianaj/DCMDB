@@ -1,0 +1,29 @@
+reference_run_cy43t2:
+
+  file_templates : ['GRIBPFALA2SH20+%LLLL.%LM']
+
+  atos:
+     path_template : 'ec:/sk9/DEODE/use_cases/hydro/reference_run_cy43t2/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : '/scratch/project_465000527/de_33050_common_data/cases/slovakia_2021/reference_run_cy43t2/%Y/%m/%d/%H/'   
+
+  domain : 
+     name : 'ALA2'
+     resolution : 2000
+     levels : 87
+
+hres_750_cy43t2:
+
+  file_templates : ['GRIBPFH750D750+%LLLL.%LM']
+
+  atos:
+     path_template : 'ec:/sk9/DEODE/use_cases/hydro/hres_750_cy43t2/%Y/%m/%d/%H/'
+
+  lumi_transfer:
+     path_template : '/scratch/project_465000527/de_33050_common_data/cases/slovakia_2021/hres_750_cy43t2/%Y/%m/%d/%H/'
+
+  domain : 
+     name : 'D750'
+     resolution : 750
+     levels : 87

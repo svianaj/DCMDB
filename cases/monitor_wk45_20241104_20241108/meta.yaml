@@ -1,0 +1,72 @@
+Norway_convection_20241104: 
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_NOR_20241104_conve_1_20241104//archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'NOR_20241104_conve_1'
+    resolution : 500
+    levels : 90
+
+Norway_storm_20241105:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/deode/CY46h1_HARMONIE_AROME_nwp_NOR_20241105_storm_1_20241105/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'NOR_20241105_storm_1'
+    resolution : 500
+    levels : 90
+
+Norway_storm_20241106:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/DE_NWP/deode/2024/11/06/00/nwp/2/HARMONIE_AROME_500m/'
+
+  domain : 
+    name : 'NOR_20241106_storm_2'
+    resolution : 500
+    levels : 90
+
+Iceland_storm_20241106:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/DE_NWP/deode/2024/11/06/00/nwp/1/HARMONIE_AROME_500m/'
+
+  domain : 
+    name : 'ICE_20241106_storm_1'
+    resolution : 500
+    levels : 90
+
+Norway_convection_20241107:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/DE_NWP/deode/2024/11/07/00/nwp/1/HARMONIE_AROME_500m/'
+
+  domain : 
+    name : 'NOR_20241107_convection_1'
+    resolution : 500
+    levels : 90
+
+Norway_flooding_20241108:
+
+  file_templates : ['GRIBPFDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s.sfx']
+
+  atos:
+    path_template : 'ec:/aut6432/DE_NWP/deode/2024/11/08/00/flooding/1/HARMONIE_AROME_500m/'
+
+  domain :
+    name : 'NOR_20241108_flooding_1'
+    resolution : 500
+    levels : 90
+

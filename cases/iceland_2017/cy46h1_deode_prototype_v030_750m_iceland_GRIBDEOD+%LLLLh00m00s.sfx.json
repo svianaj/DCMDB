@@ -1,0 +1,1934 @@
+{ "messages" : [ 
+  {
+    "indicatorOfParameter": 11,
+    "level": 731,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 732,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 733,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 734,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 92,
+    "level": 0,
+    "typeOfLevel": "meanSea",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 91,
+    "level": 0,
+    "typeOfLevel": "meanSea",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 0,
+    "typeOfLevel": "meanSea",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 83,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 780,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 12,
+    "level": 780,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 780,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 14,
+    "level": 780,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 15,
+    "level": 780,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 781,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 16,
+    "level": 780,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 17,
+    "level": 780,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 18,
+    "level": 780,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 19,
+    "level": 780,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 2,
+    "level": 781,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 83,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 831,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 841,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 833,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 843,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 834,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 844,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 835,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 845,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 836,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 846,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 837,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 847,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 838,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 848,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 839,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 849,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 831,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 841,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 832,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 842,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 833,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 843,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 834,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 844,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 835,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 845,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 836,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 846,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 837,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 847,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 838,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 848,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 839,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 86,
+    "level": 849,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 831,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 841,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 832,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 842,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 833,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 843,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 834,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 844,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 835,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 845,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 836,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 846,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 837,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 847,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 838,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 848,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 839,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 193,
+    "level": 849,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 12,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 12,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 831,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 841,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 831,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 841,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 832,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 842,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 832,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 842,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 833,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 843,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 833,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 843,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 834,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 844,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 834,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 844,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 835,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 845,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 835,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 845,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 836,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 846,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 836,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 846,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 837,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 847,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 837,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 847,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 838,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 848,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 838,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 848,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 839,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 849,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 839,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 191,
+    "level": 849,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 190,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 190,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 203,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 203,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 16,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 16,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 20,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 24,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 28,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 29,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 2,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 122,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 121,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 5,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 124,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 125,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 7,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 8,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 83,
+    "level": 761,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 83,
+    "level": 762,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 2,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 122,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 121,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 5,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 124,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 125,
+    "level": 760,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 2,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 122,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 121,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 5,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 124,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 125,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 7,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 8,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 83,
+    "level": 771,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 83,
+    "level": 772,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 772,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 772,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 2,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 122,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 121,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 5,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 124,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 125,
+    "level": 770,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 84,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 2,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 122,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 121,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 5,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 124,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 125,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 802,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 16,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2
+  },
+  {
+    "indicatorOfParameter": 15,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 802,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 802,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 7,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 8,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 83,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 83,
+    "level": 801,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 84,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 84,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 2,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 2,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 122,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 122,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 121,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 121,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 5,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 5,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 124,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 125,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 124,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 125,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 832,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 842,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 16,
+    "level": 832,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2
+  },
+  {
+    "indicatorOfParameter": 16,
+    "level": 842,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2
+  },
+  {
+    "indicatorOfParameter": 15,
+    "level": 832,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2
+  },
+  {
+    "indicatorOfParameter": 15,
+    "level": 842,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 832,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 842,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 832,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 842,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 2,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 122,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 121,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 5,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 124,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 125,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 55,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 56,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 57,
+    "level": 800,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 66,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 111,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 300,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 55,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 55,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 56,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 56,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 57,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 57,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 66,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 66,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 201,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 202,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 202,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 16,
+    "level": 300,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 3,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 4,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 5,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 7,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 8,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 9,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 10,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 12,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 13,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 14,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 15,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 16,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 17,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 18,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 19,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 20,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 21,
+    "level": 303,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 21,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 21,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 204,
+    "level": 830,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 204,
+    "level": 840,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 2,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 122,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 121,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 5,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 124,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 125,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 7,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 8,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 83,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 83,
+    "level": 951,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 16,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2
+  },
+  {
+    "indicatorOfParameter": 15,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 950,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 1,
+    "level": 810,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 21,
+    "level": 810,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 11,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 16,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2
+  },
+  {
+    "indicatorOfParameter": 15,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 2
+  },
+  {
+    "indicatorOfParameter": 51,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 52,
+    "level": 2,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 33,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 34,
+    "level": 10,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 2,
+    "level": 810,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 122,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 121,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 5,
+    "level": 810,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 124,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 125,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 2,
+    "level": 810,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 122,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 121,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 5,
+    "level": 810,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 124,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 125,
+    "level": 0,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 4
+  },
+  {
+    "indicatorOfParameter": 6,
+    "level": 810,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 7,
+    "level": 810,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 8,
+    "level": 810,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 83,
+    "level": 810,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  },
+  {
+    "indicatorOfParameter": 83,
+    "level": 811,
+    "typeOfLevel": "heightAboveGround",
+    "timeRangeIndicator": 0
+  }
+]}

@@ -1,0 +1,35 @@
+slovakia_hungary_heatwave_20240827: 
+
+  file_templates : ['GRIBPFDEODSK_HU_20240827+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s']
+
+  atos:
+    path_template : 'ec:/iczx/deode/CY48t3_ALARO_SK_HU_20240827/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'SK_HU_20240827'
+    resolution : 750
+    levels : 90
+
+CY48t3_ALARO_SK_HU_20240827_500m:
+
+  file_templates : ['GRIBPFDEODSK_HU_20240827_500m+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s']
+
+  atos:
+    path_template : 'ec:/iczx/deode/CY48t3_ALARO_SK_HU_20240827_500m/archive/%Y/%m/%d/%H/'
+
+  domain :
+    name : 'SK_HU_20240827'
+    resolution : 500
+    levels : 90
+
+CY48t3_AROME_SK_HU_20240827_500m:
+
+  file_templates : ['GRIBPFDEODSK_HU_20240827_500m+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s']
+
+  atos:
+    path_template : 'ec:/iczx/deode/CY48t3_AROME_SK_HU_20240827_500m/archive/%Y/%m/%d/%H/'
+
+  domain :
+    name : 'SK_HU_20240827'
+    resolution : 500
+    levels : 90

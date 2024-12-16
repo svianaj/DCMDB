@@ -1,0 +1,84 @@
+NEWREF:
+
+  file_templates : ['CZ1K_2017%m%d%H+%LLLL.grb2']
+
+  atos:
+     path_template : 'ec:/cza/deode/case_new/%Y%m%d%H'
+
+  lumi_transfer:
+     path_template : '/scratch/project_462000140/de_33050_common_data/cases/czech_2017/case_new/%Y%m%d%H'   
+
+  domain : 
+     name : 'CZ1K'
+     resolution : 1000m
+     native_resolution : 2325m
+     levels : 87
+
+OLDREF:
+
+  file_templates : ['CZ1K_2017%m%d%H+%LLLL.grb2']
+
+  atos:
+     path_template : 'ec:/cza/deode/case_old/%Y%m%d%H'
+
+  lumi_transfer:
+     path_template : '/scratch/project_462000140/de_33050_common_data/cases/czech_2017/case_old/%Y%m%d%H'
+
+  domain : 
+     name : 'CZ1K'
+     resolution : 1000m
+     native_resolution : 4710m
+     levels : 87
+
+HRREF:
+
+  file_templates : ['L500_2017%m%d%H+%LLLL.grb2']
+
+  atos:
+     path_template : 'ec:/cza/deode/case_highres/%Y%m%d%H'
+
+  domain :
+     name : 'LAMB'
+     resolution : 500m
+     native_resolution : 500m
+     levels : 87
+
+HRDTPA:
+
+  file_templates : ['L500_2017%m%d%H+%LLLL.grb2']
+
+  atos:
+     path_template : 'ec:/cza/deode/case_highres_protoA/%Y%m%d%H'
+
+  domain :
+     name : 'LAMB'
+     resolution : 500m
+     native_resolution : 500m
+     levels : 87
+
+HRDTPB:
+
+  file_templates : ['L500_2017%m%d%H+%LLLL.grb2']
+
+  atos:
+     path_template : 'ec:/cza/deode/case_highres_protoB/%Y%m%d%H'
+
+  domain :
+     name : 'LAMB'
+     resolution : 500m
+     native_resolution : 500m
+     levels : 87
+
+HRDTPC:
+
+  file_templates : ['L500_2017%m%d%H+%LLLL.grb2']
+
+  atos:
+     path_template : 'ec:/cza/deode/case_highres_protoC/%Y%m%d%H'
+
+  domain :
+     name : 'LAMB'
+     resolution : 500m
+     native_resolution : 500m
+     levels : 87
+

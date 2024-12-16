@@ -1,0 +1,11 @@
+romania_flood_20240724: 
+
+  file_templates : ['GRIBPFDEODRO_flood_20240724+%LLLLh00m00s','ICMSHDEOD+%LLLLh00m00s']
+
+  atos:
+    path_template : 'ec:/ic0/deode/CY48t3_ALARO_RO_flood_20240724/archive/%Y/%m/%d/%H/'
+
+  domain : 
+    name : 'RO_flood_20240724'
+    resolution : 500
+    levels : 90

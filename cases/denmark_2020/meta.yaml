@@ -1,0 +1,36 @@
+deode_dk500_feb09: 
+
+  file_templates : ['fc%Y%m%d%H+%LLLgrib_sfxs','fc%Y%m%d%H+%LLLgrib2_fp']
+
+  atos:
+     path_template : 'ec:/miag/harmonie/deode_dk500_feb09/%Y/%m/%d/%H/'
+
+  domain : 
+     name : 'DK500'
+     resolution : 500
+     levels : 90
+
+dini20a_solarenergy:
+
+  file_templates : ['fc%Y%m%d%H+%LLLh%LMmgrib_sfxs','fc%Y%m%d%H+%LLLh%LMmgrib_fp']
+
+  atos:
+     path_template : 'ec:/nhe/harmonie/dini20a_case/2019/06/%d/%H/'
+
+  domain : 
+     name : 'DINI20A'
+     resolution : 2000
+     levels : 90
+
+dini20a_flooding:
+
+  file_templates : ['fc%Y%m%d%H+%LLLh%LMmgrib_sfxs','fc%Y%m%d%H+%LLLh%LMmgrib_fp']
+
+  atos:
+     path_template : 'ec:/nhe/harmonie/dini20a_case/2020/02/%d/%H/'
+
+  domain : 
+     name : 'DINI20A'
+     resolution : 2000
+     levels : 90
+

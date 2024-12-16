@@ -1,0 +1,11 @@
+Bulgaria_flood:
+
+  file_templates : ['22%m%d%H%LLrvd.grb']
+
+  atos:
+     path_template : '/home/bgbt/deode/Bulgaria_flood/%Y/%m/%d/%H/'
+
+  domain : 
+     name :
+     resolution :
+     levels :

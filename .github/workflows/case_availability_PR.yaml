@@ -1,0 +1,64 @@
+name: PR Case avail checker
+
+on:
+    workflow_call:
+      secrets:
+        HPC_CI_SSH_USER:
+          required: true
+        GH_REPO_READ_TOKEN:
+          required: true
+    workflow_dispatch:
+    push:
+      branches: [main, develop]
+    pull_request:
+jobs:
+
+    dcmdb-atos:
+      runs-on: [hpc]
+      steps:
+
+        - name: Test case availability
+          id: ping_files
+          uses: ecmwf-actions/reusable-workflows/ci-hpc-generic@main
+          with:
+                troika_user: ${{ secrets.HPC_CI_SSH_USER }}
+                template: |
+                  echo "ID"
+                  id
+                  pwd
+                  export WORKDIR=$(pwd)
+                  export DCMDB_DIR=$(pwd)/dcmdb
+
+                  module load python3/3.11.8-01
+                  module load ecmwf-toolbox
+
+                  git clone {{ repo }} $DCMDB_DIR
+                  cd $DCMDB_DIR
+                  if [ -n "${{ github.event.pull_request.number }}" ]; then
+                    git fetch origin pull/${{ github.event.pull_request.number }}/head:PR
+                  fi
+                  if [ $(git diff --name-only origin/${{ github.event.pull_request.base.ref }}...${{ github.event.pull_request.head.sha || github.sha }} | grep -c '^cases/') -eq 0 ]; then
+                    echo "No case files changed."
+                  else
+                    case_files=$(git diff --name-only origin/${{ github.event.pull_request.base.ref }}...{{ ref }} | grep '^cases/')
+
+                    # Extract experiment folder
+                    subfolders=$(echo "$case_files" | cut -d'/' -f2 | sort -u)
+                    echo "Case files changed:"
+                    echo "$case_files"
+                    git checkout {{ ref }}
+                    pip3 install .
+                    echo "Installed DCMDB"
+                    for subfolder in $subfolders; do
+                      python3 tests/cases/test_case_availability.py -p cases -s $subfolder
+                    done
+                  fi
+
+                template_data: |
+                  repo: https://${{ secrets.GH_REPO_READ_TOKEN }}@github.com/${{ github.repository }}.git
+                  ref: ${{ github.event.pull_request.head.sha || github.sha }}
+                sbatch_options: |
+                  #SBATCH --job-name=ping_files
+                  #SBATCH --time=00:10:00
+                  #SBATCH --account=msdeode
+

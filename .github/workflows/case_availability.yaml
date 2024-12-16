@@ -1,0 +1,51 @@
+name: Weekly Case Availability Test
+
+on:
+  workflow_call:
+      secrets:
+        HPC_CI_SSH_USER:
+          required: true
+        GH_REPO_READ_TOKEN:
+          required: true
+  schedule:
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+
+    dcmdb-atos:
+      runs-on: [hpc]
+      steps:
+
+        - name: Test case availability
+          id: ping_files
+          uses: ecmwf-actions/reusable-workflows/ci-hpc-generic@main
+          with:
+                troika_user: ${{ secrets.HPC_CI_SSH_USER }}
+                template: |
+                  echo "ID"
+                  id
+                  pwd
+                  export WORKDIR=$(pwd)
+                  export DCMDB_DIR=$(pwd)/dcmdb
+
+                  module load python3/3.11.8-01
+                  module load ecmwf-toolbox
+
+                  git clone {{ repo }} $DCMDB_DIR
+                  cd $DCMDB_DIR
+                  echo $GITHUB_REF
+                  echo $GITHUB_SHA
+                  git checkout {{ ref }}
+                  pip3 install .
+                  echo "Installed DCMDB"
+                  python3 tests/cases/test_case_availability.py
+
+                template_data: |
+                  repo: https://${{ secrets.GH_REPO_READ_TOKEN }}@github.com/${{ github.repository }}.git
+                  ref: ${{ github.event.pull_request.head.sha || github.sha }}
+                sbatch_options: |
+                  #SBATCH --job-name=ping_files
+                  #SBATCH --time=00:10:00
+                  #SBATCH --account=msdeode
+

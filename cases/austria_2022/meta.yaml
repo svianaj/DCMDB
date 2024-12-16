@@ -1,0 +1,24 @@
+cy43_aromeaut_ref: 
+
+  file_templates : ['ICMSHAROM+%LLLL','ICMSHAROM+%LLLL.sfx', 'PFAROM+%LLLL.grib2']
+
+  atos:
+     path_template : 'ec:/kay/DEODE/CASE_STUDIES/%Y%m%d/%H/ref_cy43/'
+
+  domain : 
+     name : 'AROMEAUT_2500'
+     resolution : 2500
+     levels : 90
+
+cy46_aromeaut_ref: 
+
+  file_templates : ['ICMSHAROM+%LLLL','ICMSHAROM+%LLLL.sfx', 'PFAROM+%LLLL.grb2']
+
+  atos:
+     path_template : 'ec:/kay/DEODE/CASE_STUDIES/%Y%m%d/%H/ref_cy46/'
+
+  domain : 
+     name : 'AROMEAUT_2500'
+     resolution : 2500
+     levels : 90
+
